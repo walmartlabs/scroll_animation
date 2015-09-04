@@ -1,7 +1,7 @@
 {
   "name": "scrollanimation",
   "main": "scroll_animation.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Efficient scroll position listening for animation tweening",
   "keywords": ["scroll", "requestAnimationFrame", "parallax"],
   "scripts": {
@@ -16,5 +16,5 @@
   "bugs": {
     "url": "https://github.com/walmartlabs/scroll_animation/issues"
   },
-  "homepage": "https://github.com/walmartlabs/scroll_animation#readme"
+  "homepage": "https://github.com/walmartlabs/scroll_animation"
 }
