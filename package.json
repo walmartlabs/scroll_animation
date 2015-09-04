@@ -1,0 +1,20 @@
+{
+  "name": "scrollanimation",
+  "main": "scroll_animation.js",
+  "version": "1.0.0",
+  "description": "Efficient scroll position listening for animation tweening",
+  "keywords": ["scroll", "requestAnimationFrame", "parallax"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walmartlabs/scroll_animation.git"
+  },
+  "author": "Jason Webster <jason@metalabdesign.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walmartlabs/scroll_animation/issues"
+  },
+  "homepage": "https://github.com/walmartlabs/scroll_animation#readme"
+}
